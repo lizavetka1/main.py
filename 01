@@ -1,2 +1,3 @@
-a = ('Hello world')
+name = input()
+a =("Hello,my name is %s" % name)
 print(a)
